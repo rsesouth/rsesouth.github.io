@@ -1,0 +1,44 @@
+baseURL = 'http://rsesouth.github.io/'
+languageCode = 'en-us'
+title = 'RSE South'
+theme = "TatBanTheme2.0"
+disqusShortname = 'tatsatb'
+
+
+
+[taxonomies]
+  category = 'categories'
+  tag = 'tags'
+
+
+
+
+[markup]
+    [markup.goldmark]
+        [markup.goldmark.renderer]
+            unsafe = true # Allow HTML in md files
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Members"
+    url = "/members/"
+    weight = 2
+  [[menu.main]]
+    name = "Workshop"
+    url = "/workshop/"
+    weight = 3
+  [[menu.main]]
+    name = "Webinars"
+    url = "/webinars/"
+    weight = 4
+
+    
+[module]
+  [module.hugoVersion]
+    extended = true
+    min = "0.60.0"
+    max = "0.97.0"   
