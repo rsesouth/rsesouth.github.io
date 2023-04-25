@@ -22,7 +22,7 @@ If you have a contribution for the workshop, there is still space in our schedul
 
 <br/>
 
-## Registration is opening soon! {.tbh4}
+## Registration is <a href="https://forms.gle/ZGxKNnDyMX2LucLN6">NOW OPEN</a>"  {.tbh4}
 
 Register early as spaces are limited!
 
