@@ -35,7 +35,10 @@ disqusShortname = 'tatsatb'
     name = "Webinars"
     url = "/webinars/"
     weight = 4
-
+  [[menu.main]]
+    name = "Code of Conduct"
+    url = "/codeofconduct/"
+    weight = 5
     
 [module]
   [module.hugoVersion]
