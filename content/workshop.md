@@ -22,7 +22,7 @@ If you have a contribution for the workshop, there is still space in our schedul
 
 <br/>
 
-## Registration is <a href="https://forms.gle/ZGxKNnDyMX2LucLN6">NOW OPEN</a>"  {.tbh4}
+## Registration is <a href="https://forms.gle/ZGxKNnDyMX2LucLN6">NOW OPEN</a>  {.tbh4}
 
 Register early as spaces are limited!
 
@@ -36,7 +36,7 @@ Register early as spaces are limited!
 
 ## Code of Conduct and Accessibility {.tbh3}
 <span>
-Please read our workshop <a class="nav-link" href="/codeofconduct">Code of Conduct statement</a>. 
+Please read our workshop <a href="/codeofconduct">Code of Conduct statement</a>. 
 </span>
 Accessibility requirements can be specified at registration time but please <a href="mailto:m.b.broadbridge@reading.ac.uk">contact us</a> if you have any questions.
 
