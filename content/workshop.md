@@ -29,10 +29,16 @@ Register early as spaces are limited!
 <br/>
 
 ## Preliminary Workshop Schedule {.tbh4}
+<br/><br/> 
+<br/><br/> 
+<br/><br/> 
 
 
 ## Code of Conduct and Accessibility {.tbh3}
-Please read our workshop <a class="nav-link" href="/codeofconduct">Code of Conduct statement</a>. Accessibility requirements can be specified at registration time but please <a href="mailto:m.b.broadbridge@reading.ac.uk">contact us</a> if you have any questions.
+<p>
+Please read our workshop <a class="nav-link" href="/codeofconduct">Code of Conduct statement</a>. 
+Accessibility requirements can be specified at registration time but please <a href="mailto:m.b.broadbridge@reading.ac.uk">contact us</a> if you have any questions.
+</p>
 <br/><br/> 
 <br/><br/> 
 
