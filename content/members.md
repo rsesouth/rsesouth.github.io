@@ -28,7 +28,7 @@ Description: RSE South Members
 
 + Research Software Engineering Group, University of Exeter
 
-+ Met Office Informatics Lab
++ Met Office 
 
 + University of Portsmouth
 
