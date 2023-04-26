@@ -17,22 +17,21 @@ The workshop will run under the theme of "Sustainability and Reproducibility of 
 
 It is scheduled for Tuesday, May 16th 2023 and is free to attend for members and guests of RSE South.
 
-If you have a contribution for the workshop, there is still space in our schedule!
+If you have a contribution for the workshop, there is still space in our schedule! Please email <a href="mailto:m.b.broadbridge@reading.ac.uk">Maria Broadbridge</a> with any contribution suggestions.
 
 
 <br/>
 
 ## Registration is <a href="https://forms.gle/ZGxKNnDyMX2LucLN6">NOW OPEN</a>  {.tbh4}
 
-Register early as spaces are limited!
+Please register early as spaces are limited! Further workshop details will be emailed to all participants after registration.
 
 <br/>
 
 ## Preliminary Workshop Schedule {.tbh4}
 <ul style="list-style-type: none">
 <li> 9:30 - 10:00 	Registration opens, Tea & Coffee & Refreshments </li>
-<li>10:00 - 10:15 	Welcome - Maria Broadbridge, University of Reading
-                Adrian Bell, University of Reading</li>
+<li>10:00 - 10:15 	Welcome - Maria Broadbridge and Adrian Bell, University of Reading</li>
 <li>SESSION 1: Chair: Maria Broadbridge, University of Reading</li>
 <li>10:15 - 10:30 	Who are the members of RSE South? - Volunteers from each group</li>
 <li>10:30 - 11:00 	Keynote: Chris Edsall, University of Cambridge: Environmental Sustainability - What can RSEs do?</li>
@@ -54,9 +53,6 @@ Register early as spaces are limited!
 <li>16:00 onwards: 	Post-workshop networking in Park House Bar</li>
 </ul>
 <br/><br/> 
-<br/><br/> 
-<br/><br/> 
-
 
 ## Code of Conduct and Accessibility {.tbh3}
 <span>
