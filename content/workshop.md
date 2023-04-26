@@ -29,8 +29,30 @@ Register early as spaces are limited!
 <br/>
 
 ## Preliminary Workshop Schedule {.tbh4}
-
-Coming Soon!
+<ul style="list-style-type: none">
+<li> 9:30 - 10:00 	Registration opens, Tea & Coffee & Refreshments </li>
+<li>10:00 - 10:15 	Welcome - Maria Broadbridge, University of Reading
+                Adrian Bell, University of Reading</li>
+<li>SESSION 1: Chair: Maria Broadbridge, University of Reading</li>
+<li>10:15 - 10:30 	Who are the members of RSE South? - Volunteers from each group</li>
+<li>10:30 - 11:00 	Keynote: Chris Edsall, University of Cambridge: Environmental Sustainability - What can RSEs do?</li>
+<li>11:00 - 11:30   Tea & Coffee & Refreshments</li>
+<li>SESSION 2: Chair: TBC</li>
+<li>11:30 - 12:00 	Etienne Roesch, University of Reading: Computational Reproducibility</li>
+<li>12:00 - 12:10 	Fliss Guest, University of Exeter: RSE South Webinars </li>
+<li>12:10 - 12:30 	TBC</li>
+<li>12:30 - 13:00 	Keynote: Katie Finch, University of Exeter: Is it possible to grow an RSE group quickly and stay sane?</li>
+<li>13:00 - 14:00   Buffet Lunch </li>
+<li>SESSION 3: Chair: TBC </li>
+<li>14:00 - 14:20 	Sadie Bartholomew, University of Reading and National Centre for Atmospheric Science: The soft side of code review and why it matters </li>
+<li>14:20 - 14:40 	James Knight, University of Sussex: Title TBC</li>
+<li>14:40 - 15:00 	Hannah Williams, UK Health Security Agency: TBC - reflections on pandemic response/reproducible analytical pipelines</li>
+<li>15:00 - 15:30   Tea & Coffee</li>
+<li>SESSION 4: Chair: TBC</li>
+<li>15:20 - 15:50 	Open Discussion: Where do we want to go with RSE South?</li>
+<li>15:50 -16:00  	Closing comments (Maria Broadbridge)</li>
+<li>16:00 onwards: 	Post-workshop networking in Park House Bar</li>
+</ul>
 <br/><br/> 
 <br/><br/> 
 <br/><br/> 
