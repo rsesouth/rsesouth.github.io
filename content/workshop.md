@@ -36,7 +36,7 @@ Please register early as spaces are limited! Further workshop details will be em
 <li>10:15 - 10:30 	Who are the members of RSE South? - Volunteers from each group</li>
 <li>10:30 - 11:00 	Keynote: Chris Edsall, University of Cambridge: Environmental Sustainability - What can RSEs do?</li>
 <li>11:00 - 11:30   Tea & Coffee & Refreshments</li>
-<li>SESSION 2: Chair: TBC</li>
+<li>SESSION 2: Chair: Stefanie Reuter, University of Cambridge</li>
 <li>11:30 - 12:00 	Etienne Roesch, University of Reading: Computational Reproducibility</li>
 <li>12:00 - 12:10 	Fliss Guest, University of Exeter: RSE South Webinars </li>
 <li>12:10 - 12:30 	Stephen Cook, University of Exeter: Lessons from a laboratory-based RSE project</li>
