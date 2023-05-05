@@ -39,7 +39,7 @@ Please register early as spaces are limited! Further workshop details will be em
 <li>SESSION 2: Chair: TBC</li>
 <li>11:30 - 12:00 	Etienne Roesch, University of Reading: Computational Reproducibility</li>
 <li>12:00 - 12:10 	Fliss Guest, University of Exeter: RSE South Webinars </li>
-<li>12:10 - 12:30 	TBC</li>
+<li>12:10 - 12:30 	Stephen Cook, University of Exeter: Lessons from a laboratory-based RSE project</li>
 <li>12:30 - 13:00 	Keynote: Katie Finch, University of Exeter: Is it possible to grow an RSE group quickly and stay sane?</li>
 <li>13:00 - 14:00   Buffet Lunch </li>
 <li>SESSION 3: Chair: TBC </li>
@@ -48,9 +48,12 @@ Please register early as spaces are limited! Further workshop details will be em
 <li>14:40 - 15:00 	Hannah Williams, UK Health Security Agency: TBC - reflections on pandemic response/reproducible analytical pipelines</li>
 <li>15:00 - 15:30   Tea & Coffee</li>
 <li>SESSION 4: Chair: TBC</li>
-<li>15:20 - 15:50 	Open Discussion: Where do we want to go with RSE South?</li>
-<li>15:50 -16:00  	Closing comments (Maria Broadbridge)</li>
-<li>16:00 onwards: 	Post-workshop networking in Park House Bar</li>
+<li>15:30 - 15:40 	SSI Hack Day Showcase:</li>
+<li> &nbsp; Colin Sauze, National Oceanography Centre Southampton:  Climate Aware Research Computing </li>
+<li> &nbsp; Hannah Williams, UK Health Security Agency: RSE Skills and Competency Framework and Profiles </li>
+<li>15:40 - 16:00 	Open Discussion: Where do we want to go with RSE South?</li>
+<li>16:00 -16:10  	Closing comments (Maria Broadbridge)</li>
+<li>16:10 onwards: 	Post-workshop networking in Park House Bar</li>
 </ul>
 <br/><br/> 
 
