@@ -46,7 +46,7 @@ Please register early as spaces are limited! Further workshop details will be em
 <li>SESSION 3: Chair: Stefanie Reuter, University of Cambridge</li>
 <li>14:00 - 14:20 	Sadie Bartholomew, University of Reading and National Centre for Atmospheric Science: The soft side of code review and why it matters </li>
 <li>14:20 - 14:40 	James Knight, University of Sussex: Large scale brain simulation: A success story for sustainability and reproducibility</li>
-<li>14:40 - 15:00 	Hannah Williams, UK Health Security Agency: TBC - reflections on pandemic response/reproducible analytical pipelines</li>
+<li>14:40 - 15:00 	Hannah Williams, UK Health Security Agency: Reflections on pandemic response</li>
 <li>15:00 - 15:30   Tea & Coffee</li>
 <li>SESSION 4: Chair: Maria Broadbridge, University of Reading</li>
 <li>15:30 - 15:40 	SSI Hack Day Showcase:</li>
