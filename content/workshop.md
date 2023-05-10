@@ -41,7 +41,7 @@ Please register early as spaces are limited! Further workshop details will be em
 <li>12:00 - 12:10 	Fliss Guest, University of Exeter: RSE South Webinars </li>
 <li>12:10 - 12:30 	Stephen Cook, University of Exeter: Lessons from a laboratory-based RSE project</li>
 <li>12:30 - 13:00 	Keynote: Katie Finch, University of Exeter: Is it possible to grow an RSE group quickly and stay sane?</li>
-<li>13:00 - Group photo outside Park House
+<li>13:00 - Group photo outside Park House </li>
 <li>13:00 - 14:00   Buffet Lunch </li>
 <li>SESSION 3: Chair: Stefanie Reuter, University of Cambridge</li>
 <li>14:00 - 14:20 	Sadie Bartholomew, University of Reading and National Centre for Atmospheric Science: The soft side of code review and why it matters </li>
