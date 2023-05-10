@@ -32,22 +32,23 @@ Please register early as spaces are limited! Further workshop details will be em
 <ul style="list-style-type: none">
 <li> 9:30 - 10:00 	Registration opens, Tea & Coffee & Refreshments </li>
 <li>10:00 - 10:15 	Welcome - Maria Broadbridge and Adrian Bell, University of Reading</li>
+<li>10:15 - 10:30 	What is RSE South and who are we? Maria Broadbridge, University of Reading</li>
 <li>SESSION 1: Chair: Maria Broadbridge, University of Reading</li>
-<li>10:15 - 10:30 	Who are the members of RSE South? - Volunteers from each group</li>
 <li>10:30 - 11:00 	Keynote: Chris Edsall, University of Cambridge: Environmental Sustainability - What can RSEs do?</li>
 <li>11:00 - 11:30   Tea & Coffee & Refreshments</li>
-<li>SESSION 2: Chair: Stefanie Reuter, University of Cambridge</li>
+<li>SESSION 2: Chair: James Knight, University of Sussex</li>
 <li>11:30 - 12:00 	Etienne Roesch, University of Reading: Computational Reproducibility</li>
 <li>12:00 - 12:10 	Fliss Guest, University of Exeter: RSE South Webinars </li>
 <li>12:10 - 12:30 	Stephen Cook, University of Exeter: Lessons from a laboratory-based RSE project</li>
 <li>12:30 - 13:00 	Keynote: Katie Finch, University of Exeter: Is it possible to grow an RSE group quickly and stay sane?</li>
+<li>13:00 - Group photo outside Park House
 <li>13:00 - 14:00   Buffet Lunch </li>
-<li>SESSION 3: Chair: TBC </li>
+<li>SESSION 3: Chair: Stefanie Reuter, University of Cambridge</li>
 <li>14:00 - 14:20 	Sadie Bartholomew, University of Reading and National Centre for Atmospheric Science: The soft side of code review and why it matters </li>
-<li>14:20 - 14:40 	James Knight, University of Sussex: Title TBC</li>
+<li>14:20 - 14:40 	James Knight, University of Sussex: Large scale brain simulation: A success story for sustainability and reproducibility</li>
 <li>14:40 - 15:00 	Hannah Williams, UK Health Security Agency: TBC - reflections on pandemic response/reproducible analytical pipelines</li>
 <li>15:00 - 15:30   Tea & Coffee</li>
-<li>SESSION 4: Chair: TBC</li>
+<li>SESSION 4: Chair: Maria Broadbridge, University of Reading</li>
 <li>15:30 - 15:40 	SSI Hack Day Showcase:</li>
 <li> &nbsp; Colin Sauze, National Oceanography Centre Southampton:  Climate Aware Research Computing </li>
 <li> &nbsp; Hannah Williams, UK Health Security Agency: RSE Skills and Competency Framework and Profiles </li>
