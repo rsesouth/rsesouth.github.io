@@ -40,6 +40,7 @@ Description: RSE South Members
 
 + National Oceanography Centre, Southampton
 
++ Research Software Engineering, University of Oxford
 
 </span>
 
