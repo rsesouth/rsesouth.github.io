@@ -11,24 +11,36 @@ Description: RSE South Workshop
 
 ## RSE South Workshop 16th May 2023 {.tbh3}
 
-We are pleased to announce that our first in-person RSE South Workshop is going to take place at the University of Reading.
-
-The workshop will run under the theme of "Sustainability and Reproducibility of Research Software".
-
-It is scheduled for Tuesday, May 16th 2023 and is free to attend for members and guests of RSE South.
-
-If you have a contribution for the workshop, there is still space in our schedule! Please email <a href="mailto:m.b.broadbridge@reading.ac.uk">Maria Broadbridge</a> with any contribution suggestions.
-
+<p>
+On Tuesday, 16th May 2023, members of RSE South, the regional research software engineering network 
+in the UK South came together for the first time in person for the RSE South Workshop 2023. Hosted at 
+the beautiful Meadow Suite at the University of Reading, delegates from many RSE groups and institutions across 
+the South of the UK met for a day of talks, discussion and networking opportunities. In the lead up to the event, 
+50 delegates registered and the workshop saw an attendance of around 40 on the day.
+</p>
+<br/>
+<p>
+The workshop was funded by the Open Research Action Plan at the University of Reading and inspired the theme 
+of the event, namely ‘Sustainability and Reproducibility of Research Software’. Talks were centered around these 
+fundamental pillars of reproducibility and also covering a wider range of RSE community topics. The full schedule 
+of talks can be found below and slides from the presentations where speakers have granted permission for them to be 
+shared are <a href="https://drive.google.com/drive/folders/1H1kt7p5hRbOs7B49P8r8TUykkYjKuVPK?usp=sharing">here</a>.
+</p>
+<br/>
+<p>
+It was clear that this first RSE South workshop was very much enjoyed by the community and for many attendees 
+this was the first opportunity to meet community colleagues in person. The post-event survey received overwhelmingly 
+positive feedback with comments centering around the highly interesting and inspiring talks and discussions. Many 
+respondents highlighted the need for more networking and discussion time as well as an appetite for more RSE South 
+community events of different formats, so this will certainly be taken into account for future planning. Look out 
+for our upcoming RSE South activities which we will advertise on slack, our mailing list and the RSE South Website!
+</p>
 
 <br/>
 
-## Registration is <a href="https://forms.gle/ZGxKNnDyMX2LucLN6">NOW OPEN</a>  {.tbh4}
-
-Please register early as spaces are limited! Further workshop details will be emailed to all participants after registration.
-
 <br/>
 
-## Preliminary Workshop Schedule {.tbh4}
+## Workshop Schedule {.tbh4}
 <ul style="list-style-type: none">
 <li> 9:30 - 10:00 	Registration opens, Tea & Coffee & Refreshments </li>
 <li>10:00 - 10:15 	Welcome - Maria Broadbridge and Adrian Bell, University of Reading</li>
