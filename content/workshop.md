@@ -38,6 +38,9 @@ for our upcoming RSE South activities which we will advertise on slack, our mail
 
 <br/>
 
+<div style="width: 400px; font-size:80%; text-align:center;"><img src="/images/RSESouth2023.JPG" alt="RSE South Workshop 2023 Group Photo" width="400" height="280" style="padding-bottom:0.5em;" />
+RSE South Workshop 2023, Photo: Paul Heaton
+</div>
 <br/>
 
 ## Workshop Schedule {.tbh4}
