@@ -14,7 +14,7 @@ math: true
 </p>
 </span>
 
-### Upcoming Webinar on 'Reproducibility': Friday 7th July, 11:30am (1 hour){.tbh2}
+### Upcoming Webinar on 'Reproducibility': Friday 7th July, 11:30am (1 hour){.tbh3}
 <span style="color:#7a7288">
 <p>This webinar is hosted on Microsoft Teams. If you'd like to attend, contact <a href="mailto:m.b.broadbridge@reading.ac.uk">Maria Broadbridge</a> to get a meeting invite. </p>
 
