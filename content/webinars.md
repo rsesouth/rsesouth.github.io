@@ -12,8 +12,10 @@ math: true
 <span style="color:#7a7288">
 <p>RSE South runs a bi-monthly series of webinars on RSE topics, advertised though our mailing list and slack channel.
 </p>
+</span>
 
-### Upcoming Webinar on 'Reproducibility', Friday 7th July, 11:30am (1 hour){.tbh4}
+### Upcoming Webinar on 'Reproducibility': Friday 7th July, 11:30am (1 hour){.tbh2}
+<span style="color:#7a7288">
 <p>This webinar is hosted on Microsoft Teams. If you'd like to attend, contact <a href="mailto:m.b.broadbridge@reading.ac.uk">Maria Broadbridge</a> to get a meeting invite. </p>
 
 <p>You can find past instalments of our webinar series on our youtube channel <a class="tbli" href="https://youtube.com/@rsesouthuk" >@rsesouthuk</a>. 
